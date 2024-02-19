@@ -1,0 +1,159 @@
+2024-02-19 22:11:10,394 :INFO : test_ecom_e2e :This is add to cart - ecommerce project
+2024-02-19 22:16:25,569 :INFO : test_ecom_e2e :This is add to cart - ecommerce project
+2024-02-19 22:17:51,037 :INFO : test_ecom_e2e :This is add to cart - ecommerce project
+2024-02-19 22:46:24,884 :INFO : test_ecom_e2e :Message: invalid argument: 'using' must be a string
+  (Session info: chrome=121.0.6167.184)
+Stacktrace:
+0   chromedriver                        0x00000001030d2538 chromedriver + 4687160
+1   chromedriver                        0x00000001030c9d83 chromedriver + 4652419
+2   chromedriver                        0x0000000102cbafbd chromedriver + 397245
+3   chromedriver                        0x0000000102d064f0 chromedriver + 705776
+4   chromedriver                        0x0000000102d06e11 chromedriver + 708113
+5   chromedriver                        0x0000000102d4b274 chromedriver + 987764
+6   chromedriver                        0x0000000102d2992d chromedriver + 850221
+7   chromedriver                        0x0000000102d487bc chromedriver + 976828
+8   chromedriver                        0x0000000102d296a3 chromedriver + 849571
+9   chromedriver                        0x0000000102cf917f chromedriver + 651647
+10  chromedriver                        0x0000000102cfa15e chromedriver + 655710
+11  chromedriver                        0x0000000103092980 chromedriver + 4426112
+12  chromedriver                        0x0000000103097c18 chromedriver + 4447256
+13  chromedriver                        0x0000000103076e81 chromedriver + 4312705
+14  chromedriver                        0x0000000103098966 chromedriver + 4450662
+15  chromedriver                        0x0000000103068c9c chromedriver + 4254876
+16  chromedriver                        0x00000001030b8528 chromedriver + 4580648
+17  chromedriver                        0x00000001030b86de chromedriver + 4581086
+18  chromedriver                        0x00000001030c99c3 chromedriver + 4651459
+19  libsystem_pthread.dylib             0x00007ff81f6b64e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81f6b1f6b thread_start + 15
+
+2024-02-19 22:46:24,885 :INFO : test_ecom_e2e :This is add to cart - ecommerce project
+2024-02-19 22:47:24,632 :INFO : test_ecom_e2e :Message: invalid argument: 'using' must be a string
+  (Session info: chrome=121.0.6167.184)
+Stacktrace:
+0   chromedriver                        0x0000000108913538 chromedriver + 4687160
+1   chromedriver                        0x000000010890ad83 chromedriver + 4652419
+2   chromedriver                        0x00000001084fbfbd chromedriver + 397245
+3   chromedriver                        0x00000001085474f0 chromedriver + 705776
+4   chromedriver                        0x0000000108547e11 chromedriver + 708113
+5   chromedriver                        0x000000010858c274 chromedriver + 987764
+6   chromedriver                        0x000000010856a92d chromedriver + 850221
+7   chromedriver                        0x00000001085897bc chromedriver + 976828
+8   chromedriver                        0x000000010856a6a3 chromedriver + 849571
+9   chromedriver                        0x000000010853a17f chromedriver + 651647
+10  chromedriver                        0x000000010853b15e chromedriver + 655710
+11  chromedriver                        0x00000001088d3980 chromedriver + 4426112
+12  chromedriver                        0x00000001088d8c18 chromedriver + 4447256
+13  chromedriver                        0x00000001088b7e81 chromedriver + 4312705
+14  chromedriver                        0x00000001088d9966 chromedriver + 4450662
+15  chromedriver                        0x00000001088a9c9c chromedriver + 4254876
+16  chromedriver                        0x00000001088f9528 chromedriver + 4580648
+17  chromedriver                        0x00000001088f96de chromedriver + 4581086
+18  chromedriver                        0x000000010890a9c3 chromedriver + 4651459
+19  libsystem_pthread.dylib             0x00007ff81f6b64e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81f6b1f6b thread_start + 15
+
+2024-02-19 22:47:24,633 :INFO : test_ecom_e2e :This is add to cart - ecommerce project
+2024-02-19 22:49:00,858 :INFO : test_ecom_e2e :Message: invalid argument: 'using' must be a string
+  (Session info: chrome=121.0.6167.184)
+Stacktrace:
+0   chromedriver                        0x0000000107f81538 chromedriver + 4687160
+1   chromedriver                        0x0000000107f78d83 chromedriver + 4652419
+2   chromedriver                        0x0000000107b69fbd chromedriver + 397245
+3   chromedriver                        0x0000000107bb54f0 chromedriver + 705776
+4   chromedriver                        0x0000000107bb5e11 chromedriver + 708113
+5   chromedriver                        0x0000000107bfa274 chromedriver + 987764
+6   chromedriver                        0x0000000107bd892d chromedriver + 850221
+7   chromedriver                        0x0000000107bf77bc chromedriver + 976828
+8   chromedriver                        0x0000000107bd86a3 chromedriver + 849571
+9   chromedriver                        0x0000000107ba817f chromedriver + 651647
+10  chromedriver                        0x0000000107ba915e chromedriver + 655710
+11  chromedriver                        0x0000000107f41980 chromedriver + 4426112
+12  chromedriver                        0x0000000107f46c18 chromedriver + 4447256
+13  chromedriver                        0x0000000107f25e81 chromedriver + 4312705
+14  chromedriver                        0x0000000107f47966 chromedriver + 4450662
+15  chromedriver                        0x0000000107f17c9c chromedriver + 4254876
+16  chromedriver                        0x0000000107f67528 chromedriver + 4580648
+17  chromedriver                        0x0000000107f676de chromedriver + 4581086
+18  chromedriver                        0x0000000107f789c3 chromedriver + 4651459
+19  libsystem_pthread.dylib             0x00007ff81f6b64e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81f6b1f6b thread_start + 15
+
+2024-02-19 22:49:00,858 :INFO : test_ecom_e2e :This is add to cart - ecommerce project
+2024-02-19 22:51:03,066 :DEBUG : test_ecom_e2e :Message: invalid argument: 'using' must be a string
+  (Session info: chrome=121.0.6167.184)
+Stacktrace:
+0   chromedriver                        0x00000001033f5538 chromedriver + 4687160
+1   chromedriver                        0x00000001033ecd83 chromedriver + 4652419
+2   chromedriver                        0x0000000102fddfbd chromedriver + 397245
+3   chromedriver                        0x00000001030294f0 chromedriver + 705776
+4   chromedriver                        0x0000000103029e11 chromedriver + 708113
+5   chromedriver                        0x000000010306e274 chromedriver + 987764
+6   chromedriver                        0x000000010304c92d chromedriver + 850221
+7   chromedriver                        0x000000010306b7bc chromedriver + 976828
+8   chromedriver                        0x000000010304c6a3 chromedriver + 849571
+9   chromedriver                        0x000000010301c17f chromedriver + 651647
+10  chromedriver                        0x000000010301d15e chromedriver + 655710
+11  chromedriver                        0x00000001033b5980 chromedriver + 4426112
+12  chromedriver                        0x00000001033bac18 chromedriver + 4447256
+13  chromedriver                        0x0000000103399e81 chromedriver + 4312705
+14  chromedriver                        0x00000001033bb966 chromedriver + 4450662
+15  chromedriver                        0x000000010338bc9c chromedriver + 4254876
+16  chromedriver                        0x00000001033db528 chromedriver + 4580648
+17  chromedriver                        0x00000001033db6de chromedriver + 4581086
+18  chromedriver                        0x00000001033ec9c3 chromedriver + 4651459
+19  libsystem_pthread.dylib             0x00007ff81f6b64e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81f6b1f6b thread_start + 15
+
+2024-02-19 22:51:03,067 :INFO : test_ecom_e2e :This is add to cart - ecommerce project
+2024-02-19 22:51:50,302 :ERROR : test_ecom_e2e :Message: invalid argument: 'using' must be a string
+  (Session info: chrome=121.0.6167.184)
+Stacktrace:
+0   chromedriver                        0x000000010e4d4538 chromedriver + 4687160
+1   chromedriver                        0x000000010e4cbd83 chromedriver + 4652419
+2   chromedriver                        0x000000010e0bcfbd chromedriver + 397245
+3   chromedriver                        0x000000010e1084f0 chromedriver + 705776
+4   chromedriver                        0x000000010e108e11 chromedriver + 708113
+5   chromedriver                        0x000000010e14d274 chromedriver + 987764
+6   chromedriver                        0x000000010e12b92d chromedriver + 850221
+7   chromedriver                        0x000000010e14a7bc chromedriver + 976828
+8   chromedriver                        0x000000010e12b6a3 chromedriver + 849571
+9   chromedriver                        0x000000010e0fb17f chromedriver + 651647
+10  chromedriver                        0x000000010e0fc15e chromedriver + 655710
+11  chromedriver                        0x000000010e494980 chromedriver + 4426112
+12  chromedriver                        0x000000010e499c18 chromedriver + 4447256
+13  chromedriver                        0x000000010e478e81 chromedriver + 4312705
+14  chromedriver                        0x000000010e49a966 chromedriver + 4450662
+15  chromedriver                        0x000000010e46ac9c chromedriver + 4254876
+16  chromedriver                        0x000000010e4ba528 chromedriver + 4580648
+17  chromedriver                        0x000000010e4ba6de chromedriver + 4581086
+18  chromedriver                        0x000000010e4cb9c3 chromedriver + 4651459
+19  libsystem_pthread.dylib             0x00007ff81f6b64e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81f6b1f6b thread_start + 15
+
+2024-02-19 22:51:50,303 :INFO : test_ecom_e2e :This is add to cart - ecommerce project
+2024-02-20 00:36:44,690 :ERROR : test_ecom_e2e :Message: invalid argument: 'using' must be a string
+  (Session info: chrome=121.0.6167.184)
+Stacktrace:
+0   chromedriver                        0x000000010f610538 chromedriver + 4687160
+1   chromedriver                        0x000000010f607d83 chromedriver + 4652419
+2   chromedriver                        0x000000010f1f8fbd chromedriver + 397245
+3   chromedriver                        0x000000010f2444f0 chromedriver + 705776
+4   chromedriver                        0x000000010f244e11 chromedriver + 708113
+5   chromedriver                        0x000000010f289274 chromedriver + 987764
+6   chromedriver                        0x000000010f26792d chromedriver + 850221
+7   chromedriver                        0x000000010f2867bc chromedriver + 976828
+8   chromedriver                        0x000000010f2676a3 chromedriver + 849571
+9   chromedriver                        0x000000010f23717f chromedriver + 651647
+10  chromedriver                        0x000000010f23815e chromedriver + 655710
+11  chromedriver                        0x000000010f5d0980 chromedriver + 4426112
+12  chromedriver                        0x000000010f5d5c18 chromedriver + 4447256
+13  chromedriver                        0x000000010f5b4e81 chromedriver + 4312705
+14  chromedriver                        0x000000010f5d6966 chromedriver + 4450662
+15  chromedriver                        0x000000010f5a6c9c chromedriver + 4254876
+16  chromedriver                        0x000000010f5f6528 chromedriver + 4580648
+17  chromedriver                        0x000000010f5f66de chromedriver + 4581086
+18  chromedriver                        0x000000010f6079c3 chromedriver + 4651459
+19  libsystem_pthread.dylib             0x00007ff81f6b64e1 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81f6b1f6b thread_start + 15
+
+2024-02-20 00:36:44,691 :INFO : test_ecom_e2e :This is add to cart - ecommerce project
