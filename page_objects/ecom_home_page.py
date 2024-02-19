@@ -8,7 +8,6 @@ class EcomHomePage:
     item_price = (By.XPATH, "//*[@class='card-body']/h5")
     # "(//button[@class='btn btn-info'][normalize-space()='Add']"
     add_button = (By.XPATH, "//*[@class = 'card-footer']/button")
-    "//h4[@class = 'card-title']//a[contains(text(),'iphone X')]"
     item = (By.XPATH, f"//h4[@class = 'card-title']//a[contains(text(),'iphone X')]")
 
     def add_to_cart(self, item_name):

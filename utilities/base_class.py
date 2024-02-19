@@ -1,6 +1,5 @@
 import inspect
 import logging
-
 import pytest
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
@@ -19,6 +18,7 @@ class BaseClass:
         logger.addHandler(file_handler)  # filehandler object
         logger.setLevel(logging.DEBUG)
         return logger
+    # logger method
 
     def wait_for_element_presence(self, text):
         element = WebDriverWait(self.driver, 10).until(

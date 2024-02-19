@@ -1,7 +1,4 @@
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.select import Select
-
-from utilities.base_class import BaseClass
 
 
 class HomePage:

@@ -61,6 +61,7 @@ def pytest_runtest_makereport(item):
 
 # def _capture_screenshot(name):
 #     driver.get_screenshot_as_file(name)
+# not
 def _capture_screenshot(name):
     screenshot_folder = "../screenshots"
     if not os.path.exists(screenshot_folder):
