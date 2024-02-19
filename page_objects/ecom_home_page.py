@@ -6,7 +6,6 @@ class EcomHomePage:
         self.driver = driver
 
     item_price = (By.XPATH, "//*[@class='card-body']/h5")
-    # "(//button[@class='btn btn-info'][normalize-space()='Add']"
     add_button = (By.XPATH, "//*[@class = 'card-footer']/button")
     item = (By.XPATH, f"//h4[@class = 'card-title']//a[contains(text(),'iphone X')]")
 
