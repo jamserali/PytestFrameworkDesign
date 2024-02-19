@@ -35,7 +35,6 @@ def pytest_addoption(parser):
     # browser invocation command : pytest --browser_name chrome
 
 
-# @pytest.mark.hookwrapper
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item):
     """
@@ -59,9 +58,6 @@ def pytest_runtest_makereport(item):
         report.extras = extras
 
 
-# def _capture_screenshot(name):
-#     driver.get_screenshot_as_file(name)
-# not
 def _capture_screenshot(name):
     screenshot_folder = "../screenshots"
     if not os.path.exists(screenshot_folder):

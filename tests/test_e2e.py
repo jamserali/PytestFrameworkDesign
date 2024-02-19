@@ -2,7 +2,6 @@ import time
 from page_objects.home_page import HomePage
 from utilities.base_class import BaseClass
 
-# E2E Test
 class Test_End2End(BaseClass):
 
     def test_e2e(self):
